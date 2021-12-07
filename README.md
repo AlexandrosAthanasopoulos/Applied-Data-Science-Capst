@@ -1,4 +1,4 @@
-# Applied-Data-Science-Capst
+# Applied Data Science Capstone from IBM (part of IBM Data Science Professional Certificate)
 Applied Data Science Capstone from IBM
 
 
